@@ -1,7 +1,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadfajaryh12&show_icons=true&locale=en&layout=compact" alt="muhamadfajaryh12" /></p>
-
+<br>b
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamadfajaryh12&show_icons=true&locale=en" alt="muhamadfajaryh12" /></p>
 <p align="left">
 </p>
