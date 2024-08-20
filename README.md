@@ -1,10 +1,11 @@
-
+s
 <img src="https://media.tenor.com/Lk7c5qcQPh8AAAAC/sung-jin-woo-solo-leveling.gif"/>
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadfajaryh12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=muhamadfajaryh12&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 <h3 align="left">Languages and Tools:</h3>
+<div style="display: flex; justify-content: center; gap: 10px; flex:wrap">
 <img  width="40" height="40" src="https://emaillistvalidation.com/blog/content/images/2023/09/HTML5_logo_and_wordmark.svg.png"/>
 <img  width="40" height="40" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"/>
 <img  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
@@ -25,5 +26,5 @@
 <img  width="40" height="40" src="https://tse4.mm.bing.net/th?id=OIP.YfHQ0e7E5eY45GVC8aSzWAHaE8&pid=Api&P=0&h=180"/>
 <img  width="40" height="40" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"/>
 <img  width="40" height="40" src="https://2.bp.blogspot.com/-vmwdFyDi4-A/XHzst4aNkKI/AAAAAAAABrw/vaWNbn7c0Js0OIzvrtjj892c_geZeVqAwCLcBGAs/s1600/mongodb.jpg"/>
-
+</div>
 
