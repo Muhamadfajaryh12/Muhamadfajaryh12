@@ -27,4 +27,6 @@ s
 <img  width="60" height="60" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"/>
 <img  width="60" height="60" src="https://2.bp.blogspot.com/-vmwdFyDi4-A/XHzst4aNkKI/AAAAAAAABrw/vaWNbn7c0Js0OIzvrtjj892c_geZeVqAwCLcBGAs/s1600/mongodb.jpg"/>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhamadfajaryh12&label=Profile%20views&color=0e75b6&style=flat" alt="Muhamadfajaryh12" /> </p>
+
 
