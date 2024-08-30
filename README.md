@@ -1,4 +1,4 @@
-s
+
 <img src="https://media.tenor.com/Lk7c5qcQPh8AAAAC/sung-jin-woo-solo-leveling.gif"/>
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadfajaryh12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
